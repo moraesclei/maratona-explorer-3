@@ -27,6 +27,8 @@ max-width: 330px;
 margin: 50px auto;
 padding: 1px;
 opacity: 0.9;
+background-position: 0% 0%;
+
 }
 ul{
   list-style: none;
