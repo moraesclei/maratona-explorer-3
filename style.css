@@ -11,14 +11,14 @@ Padding - são os preenchimentos internos
 
 body{
   background-image: url('http://meuroteirordc.com.br/wp-content/uploads/2020/10/iStock-1158395337.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;
-  background-color: #FFEDD5;
-  font-family: 'Roboto', sans-serif;
-  overflow: hidden;
-  flex-direction: row;
-  justify-content: space-around;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: #FFEDD5;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .caixa{
