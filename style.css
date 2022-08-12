@@ -17,6 +17,8 @@ body{
   background-color: #FFEDD5;
   font-family: 'Roboto', sans-seri;
   overflow: hidden;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .caixa{
