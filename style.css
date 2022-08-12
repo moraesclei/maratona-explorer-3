@@ -18,7 +18,6 @@ body{
   overflow: hidden;
 }
 
-/*
 .caixa{
 background: #FFEDD5;
 max-width: 330px;
@@ -28,7 +27,7 @@ opacity: 0.9;
 background-position: 0% 0%;
 
 }
-*/
+
 
 ul{
   list-style: none;
@@ -75,12 +74,6 @@ header p{
 /* SECTION */
 section{
   margin-bottom: 24px;
-  background: #FFEDD5;
-  max-width: 330px;
-  margin: 50px auto;
-  padding: 1px;
-  opacity: 0.9;
-  background-position: 0% 0%;
 }
 
 section h2{
